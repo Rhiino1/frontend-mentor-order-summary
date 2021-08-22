@@ -7,10 +7,8 @@ body {
   align-items: center;
   justify-content: center;
   background: no-repeat top/100% url('../images/pattern-background-mobile.svg'), var(--paleblue);
-  // background: no-repeat top/100% url('../../../images/pattern-background-mobile.svg'), var(--paleblue); DEV
 
   @include breakpoint(medium) {
-    // background: no-repeat top/100% url('../../../images/pattern-background-desktop.svg'), var(--paleblue); DEV
     background: no-repeat top/100% url('../images/pattern-background-desktop.svg'), var(--paleblue);
   }
 }
