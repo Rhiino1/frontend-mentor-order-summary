@@ -34,7 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://sre8.me/frontend-mentor-order-summary/)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/order-summary-with-html-and-sass-iBfqpbxXE)
+- - Live Site URL: [Here](https://rhiino1.github.io/frontend-mentor-order-summary/)
 
 ## My process
 
@@ -118,7 +119,7 @@ Sometimes my grids doesn't work the way I want, so this will be a thing I want t
 
 ## Author
 
-- Website - [Cesar SC](https://github.com/Rhiino1)
+- Github - [Cesar SC](https://github.com/Rhiino1)
 - Frontend Mentor - [@Rhiino1](https://www.frontendmentor.io/profile/Rhiino1)
 - Twitter - [@Rhiino_1](https://www.twitter.com/Rhiino_1)
 
